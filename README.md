@@ -3,7 +3,7 @@
 > **Unleashing the Power of Generative AI on the Blockchain 🚀**  
 > In a world where technology and artistry merge into a seamless experience, **Generative Agent NFT** emerges as a pioneer. This project employs large language models, including the acclaimed **LangChain**, to breathe life into unique and intelligent digital agents. Each NFT (Non-Fungible Token) is more than a digital asset—it’s a sentient being in the digital realm. A partner, an advisor, a digital companion with its own personality, evolving and learning as it interacts with you and the world. **Welcome to the future of NFTs and AI.** 🎨🧠⛓
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpeg)
 
 ## Table of Contents 📑
 
